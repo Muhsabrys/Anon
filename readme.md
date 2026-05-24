@@ -1,8 +1,6 @@
-# EasyAnnotation: Multilingual NLI Annotation Guide
+# Multilingual NLI Annotation Guide
 
 ## Machine-Translated Natural Language Inference Annotation Task
-
-**EasyAnnotation** is a framework for multilingual Natural Language Inference (NLI) annotation. It is designed to help annotators classify machine-translated sentence pairs consistently across languages.
 
 This task investigates whether inference relations transfer across languages after machine translation from English. In most cases, annotators should choose one of three core NLI labels: **Entailment**, **Contradiction**, or **Neutral**. In rare cases, when a machine-translated sentence is broken, incomplete, or impossible to interpret, annotators may select **Nonsense**.
 
